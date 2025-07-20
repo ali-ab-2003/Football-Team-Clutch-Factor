@@ -51,9 +51,8 @@ This project analyzes FIFA World Cup penalty shootouts to evaluate how teams per
 ## 📊 Results Preview
 
 - Bar chart of team-wise clutch factors.
-- Scatter plot: Clutch Factor vs Total Penalties.
-- Keeper vs Shooter direction matrix.
-- Distribution of outcomes by footedness and zone.
+- Sample Predictions on Test Data
+- Bar plot: Feature Importance
 
 ---
 
