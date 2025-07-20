@@ -1,6 +1,6 @@
 # ⚽ Penalty Pressure Prediction (Clutch Factor)
 
-This project analyzes FIFA World Cup penalty shootouts to evaluate how teams perform under pressure. By studying penalty conversion rates, elimination outcomes, and contextual data, we compute a **Clutch Factor** — a metric representing how reliable a team is when the stakes are highest.
+This project analyzes FIFA World Cup penalty shootouts to evaluate how teams perform under pressure. By studying penalty conversion rates, elimination outcomes, and contextual data, we compute a **Clutch Factor**, a metric representing how reliable a team is when the stakes are highest.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ali-ab-2003/Football-Team-Clutch-Factor/blob/main/model.ipynb)
 
