@@ -41,6 +41,11 @@ This project analyzes FIFA World Cup penalty shootouts to evaluate how teams per
 - Defined **Clutch Factor** as:
 
 
+  > **Clutch Factor = (Goals Scored When Facing Elimination) / (Total Elimination Pressure Penalties)**
+
+- Teams with very few elimination penalties were filtered out to avoid inflated ratios.
+- Data visualizations were used to explore performance trends and directional tendencies (e.g. foot vs keeper dive direction).
+
 ---
 
 ## 📊 Results Preview
