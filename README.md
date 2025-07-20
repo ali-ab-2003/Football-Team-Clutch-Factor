@@ -40,4 +40,36 @@ This project analyzes FIFA World Cup penalty shootouts to evaluate how teams per
   - Goals under elimination
 - Defined **Clutch Factor** as:
 
+
+---
+
+## 📊 Results Preview
+
+- Bar chart of team-wise clutch factors.
+- Scatter plot: Clutch Factor vs Total Penalties.
+- Keeper vs Shooter direction matrix.
+- Distribution of outcomes by footedness and zone.
+
+---
+
+## 💻 Tech Stack
+
+- Python
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- Jupyter Notebook
+- Git + GitHub
+
+---
+
+## 🚀 Run Locally
+
+1. Clone the repository:
+ ```bash
+ git clone https://github.com/ali-ab-2003/Football-Team-Clutch-Factor.git
+ cd Football-Team-Clutch-Factor
+
+
 This project is open-source under the MIT License.
